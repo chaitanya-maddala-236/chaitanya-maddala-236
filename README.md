@@ -53,7 +53,7 @@ Currently deep in the world of **Agentic AI** — multi-agent orchestration, too
 **Stack:** `Python` `LangGraph` `LangChain` `OpenAI API` `ChromaDB` `FastAPI`
 
 ```
-⭐ Status: Active development | 🗓️ Started: 2025
+⭐ Status: Active development | 🗓️ Started: 2026
 ```
 
 ---
