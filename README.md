@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-maddala236)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-maddala-ai)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chaitanyaa2006)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyaa.2006@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/chaitanya-maddala-236?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/chaitanya-maddala-236)
